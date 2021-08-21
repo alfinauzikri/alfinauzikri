@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alfin Auzikri</h1>
 <h4 align="center">Life is like riding a bicycle. To keep your balance, you must keep moving..</h4>
 <br>
-<p align="center"><img alt="Alfin Auzikri" src="https://komarev.com/ghpvc/?username=alfinauzikri&label=Profile%20views&color=0e75b6&style=flat"/></p>
+<p align="center"><img alt="Alfin Auzikri"  src="https://komarev.com/ghpvc/?username=alfinauzikri&label=Profile%20views&color=0e75b6&style=flat"/></p>
 <br>
 <p align="center">
-<img align="center" src="https://raw.githubusercontent.com/alfinauzikri/alfinauzikri/main/assets/cover.gif"/><br>
+<img width="400" src="https://raw.githubusercontent.com/alfinauzikri/alfinauzikri/main/assets/cover.gif"/><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfinauzikri&include_all_commits=true&count_private=true"/><br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfinauzikri&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true"/>
 <img src="https://github-readme-stats.vercel.app/api?username=alfinauzikri&show_icons=true&locale=en&include_all_commits=true&hide=contribs&count_private=true"/>
