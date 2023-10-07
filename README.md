@@ -8,5 +8,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/alfinauzikri"><img src="https://img.shields.io/badge/-alfinauzikri-0D1117?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alfinauzikri/"/></a>
 <a href="https://instagram.com/alfauzikri"><img src="https://img.shields.io/badge/-alfauzikri-0D1117?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/alfauzikri"/></a>
-<a href="mailto:iyalfin@gmail.com"><img src="https://img.shields.io/badge/-me@alfauzikri.my.id-0D1117?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@alfauzikri.my.id"/></a>
+<a href="mailto:me@alfauzikri.my.id"><img src="https://img.shields.io/badge/-me@alfauzikri.my.id-0D1117?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@alfauzikri.my.id"/></a>
 </p>
