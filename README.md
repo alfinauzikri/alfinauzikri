@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Alfin</h1>
-<p align="center">Life is like riding a bicycle. To keep your balance, you must keep moving..</p>
+<h1 align="center">Hi, I'm Alfin<a id='alfinauzikri'></a></h1>
+<p align="center">Life is like riding a bicycle. To keep your balance, you must keep moving...</p>
 <p align="center"><img alt="Alfin Auzikri" unselectable="on" src="https://komarev.com/ghpvc/?username=alfinauzikri&label=Profile%20views&color=69a8ea&style=flat"/></p>
 <p align="center">
 <img unselectable="on" src="http://streak-stats.demolab.com?user=alfinauzikri&theme=holi-theme&hide_border=true&background=0D1117&mode=weekly"/><br>
